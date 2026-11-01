@@ -11,9 +11,19 @@ Built with Python, AWS S3, Databricks (PySpark + Delta Lake).
 
 ## Dashboard
 
-<img src="docs/dashboard_1.png" width="48%"> <img src="docs/dashboard_2.png" width="48%">
-<img src="docs/dashboard_3.png" width="48%"> <img src="docs/dashboard_4.png" width="48%">
-<img src="docs/dashboard_5.png" width="48%">
+<p align="center">
+  <img src="docs/dashboard_1.png" width="48%">
+  <img src="docs/dashboard_2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/dashboard_3.png" width="48%">
+  <img src="docs/dashboard_4.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/dashboard_5.png" width="97%">
+</p>
 
 ## Architecture
 
